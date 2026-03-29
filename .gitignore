@@ -1,0 +1,36 @@
+# Python
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# OS
+.DS_Store
+
+# Training artifacts
+runs/
+checkpoints/
+logs/
+tensorboard/
+wandb/
+tmp/
+tmp_splits/
+
+# Data artifacts
+data/raw/
+data/interim/
+data/cache/
+
+# Heavy files
+*.pkl
+*.pt
+*.pth
+*.ckpt
+*.npz
+*.npy
+*.parquet
+*.feather
+*.joblib
+*.zip
+*.tar.gz

@@ -1,0 +1,41 @@
+[
+  {
+    "policy": "flat",
+    "steps": 5000,
+    "mean_abs_action": 0.0,
+    "mean_abs_pos": 0.0,
+    "pct_flat": 1.0,
+    "turnover_mean": 0.0,
+    "equity_start": 1.0,
+    "equity_end": 1.0,
+    "equity_std": 0.0,
+    "pos_nan_pct": 0.0,
+    "turnover_nan_pct": 0.0
+  },
+  {
+    "policy": "long",
+    "steps": 5000,
+    "mean_abs_action": 1.0,
+    "mean_abs_pos": 0.9998,
+    "pct_flat": 0.0002,
+    "turnover_mean": 0.0002,
+    "equity_start": 0.9977197147909084,
+    "equity_end": 0.803635311375775,
+    "equity_std": 0.08983182448703375,
+    "pos_nan_pct": 0.0,
+    "turnover_nan_pct": 0.0
+  },
+  {
+    "policy": "random",
+    "steps": 5000,
+    "mean_abs_action": 0.5028804065650624,
+    "mean_abs_pos": 0.5027015828753145,
+    "pct_flat": 0.0012,
+    "turnover_mean": 0.6847907634786025,
+    "equity_start": 0.9993748588351933,
+    "equity_end": 0.9014896687139946,
+    "equity_std": 0.03634289674823302,
+    "pos_nan_pct": 0.0,
+    "turnover_nan_pct": 0.0
+  }
+]
